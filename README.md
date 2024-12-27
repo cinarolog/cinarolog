@@ -23,6 +23,10 @@
 <h3 align="center">Skills</h3>
 <p align="center">Python | Machine Learning | Deep Learning | Data Engineering | MLOps | AWS-GCP | PostgreSQL | Oracle</p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100" height="100"/>
+</div>
+
 ---
 
 <h3 align="center">✨ Languages and Tools</h3>
@@ -36,6 +40,10 @@
   <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40"/></a>
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+</div>
 
 ---
 
@@ -52,6 +60,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
+</div>
+
 ---
 
 <h3 align="center">📊 My Stats</h3>
@@ -64,7 +76,9 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
   <img src="https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif" alt="Corona Runner"/>
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="150"/>
 </p>
 
 ---
