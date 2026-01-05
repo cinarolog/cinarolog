@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFF00&lines=Welcome+to+My+GitHub+Page!;Data+Science+Enthusiast;Big+Data+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFF00&lines=Welcome+to+My+GitHub+Page!;Data+Science+Enthusiast;Big+Data+Engineer;Machine+Learning+Expert;Cloud+Architecture+Specialist"/>
 </p>
 
 ---
@@ -38,6 +38,7 @@
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -53,12 +54,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🔧 MLOps & API
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -99,46 +102,27 @@ Building robust ETL/ELT pipelines, data warehousing solutions, and real-time dat
 
 ---
 
-## 📅 Isometric Commit Calendar
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/cinarolog?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=Europe%2FIstanbul" alt="Isometric Commit Calendar" width="600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cinarolog&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinarolog&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
 </div>
 
 ---
 
-## 🈷️ Most Used Languages
+<h3 align="center">🔥 GitHub Streak Stats</h3>
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/cinarolog?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FIstanbul" alt="Language Stats" width="600"/>
-</div>
-
----
-
-## 💡 Coding Habits & Activity
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/cinarolog?template=classic&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.trim=false&config.timezone=Europe%2FIstanbul" alt="Coding Habits" width="600"/>
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/cinarolog?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FIstanbul" alt="GitHub Achievements" width="600"/>
-</div>
-
----
-
-<h3 align="center">📊 My Stats</h3>
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=cinarolog&theme=dark&background=000000" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cinarolog&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" alt="GitHub Streak Stats"/>
 </p>
 
+---
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cinarolog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinarolog&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=cinarolog&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -146,33 +130,32 @@ Building robust ETL/ELT pipelines, data warehousing solutions, and real-time dat
 ## 📈 Contribution Activity
 
 <div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cinarolog&custom_title=Cinar's%20Contribution%20Graph&bg_color=000000&color=79c83d&line=ffff00&point=ffffff&area=true&hide_border=true)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cinarolog&custom_title=Cinar's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🌟 Recently Starred Repositories
+<h3 align="center">💻 Most Used Languages (Detailed)</h3>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/cinarolog?template=classic&stars=1&stars.limit=4&config.timezone=Europe%2FIstanbul" alt="Recently Starred" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinarolog&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&hide=html,css" alt="Top Languages"/>
 </div>
 
 ---
 
-## 📌 Starred Topics
+<h3 align="center">📊 Profile Details</h3>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/cinarolog?template=classic&topics=1&topics.mode=icons&topics.limit=20&config.timezone=Europe%2FIstanbul" alt="Starred Topics" width="600"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cinarolog&theme=radical" alt="Profile Details"/>
 </div>
 
 ---
 
-## 📰 Recent Activity
+<h3 align="center">⏰ Coding Activity</h3>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/cinarolog?template=classic&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&config.timezone=Europe%2FIstanbul" alt="Recent Activity" width="600"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cinarolog&theme=radical&utcOffset=3" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cinarolog&theme=radical" alt="Repos per Language"/>
 </div>
 
 ---
@@ -208,7 +191,7 @@ Building robust ETL/ELT pipelines, data warehousing solutions, and real-time dat
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
