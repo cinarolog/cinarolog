@@ -9,7 +9,13 @@
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
   <h2>Hi, I'm <b>Cinar</b>! ✅</h2>
-  <p>I graduated from Kocaeli University, Department of Electronics and Communication Engineering. Currently, I specialize in Data Science and Big Data Engineering.</p>
+  <p>👋 Hey there!
+
+I’m an AI Engineer & Data Scientist who loves working with AI, ML, LLMs, and MLOps 🤖📊
+Currently, I build end-to-end AI solutions in the defence sector — from data engineering to production-ready models 🚀
+
+I also create technical content on YouTube 🎥, sharing what I learn about artificial intelligence, data science, data engineering, and MLOps while learning along the way.
+I enjoy turning complex problems into practical, scalable AI solutions and improving myself a little more every day 🌱.</p>
 </div>
 
 ---
