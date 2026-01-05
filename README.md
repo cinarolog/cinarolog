@@ -1,43 +1,31 @@
+<!-- Enhanced and Professional GitHub README Template -->
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcinarolog&count_bg=%2379C83D&title_bg=%23555555&icon=tripadvisor.svg&icon_color=%23CA2323&title=hits&edge_flat=false" align="right"/></a>
+
+<p align="center">
+  <img src="https://i.imgur.com/A6bWGFl.gif"/>
+  <img src="https://komarev.com/ghpvc/?username=cinarolog&&style=plastic&&color=yellow" align="right"/>
+</p>
+
 <div align="center">
-
-# 👋 Hey there, I'm Cinar!
-
-### Data Science Engineer | Big Data Specialist | MLOps Enthusiast
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Engineer;Big+Data+Architecture+Expert;Cloud+%26+DevOps+Practitioner;Always+learning+new+things!)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetcinar/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=streamlit&logoColor=white)](https://cinar-muhammet.streamlit.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmmtcnr81@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=cinarolog&color=brightgreen&style=for-the-badge)
-
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+  <h2>Hi, I'm <b>Cinar</b>! ✅</h2>
+  <p>I graduated from Kocaeli University, Department of Electronics and Communication Engineering. Currently, I specialize in Data Science and Big Data Engineering.</p>
 </div>
 
 ---
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFF00&lines=Welcome+to+My+GitHub+Page!;Data+Science+Enthusiast;Big+Data+Engineer"/>
+</p>
 
-```python
-class DataEngineer:
-    def __init__(self):
-        self.name = "Muhammet Cinar"
-        self.role = "Data Science & Big Data Engineer"
-        self.education = "Electronics & Communication Engineering @ Kocaeli University"
-        self.location = "Turkey"
-        self.interests = ["Machine Learning", "MLOps", "Data Engineering", "Cloud Architecture"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+---
 
-me = DataEngineer()
-me.say_hi()
-```
+<h3 align="center">Skills</h3>
+<p align="center">Python | Machine Learning | Deep Learning | Data Engineering | MLOps | AWS-GCP | PostgreSQL | Oracle</p>
 
-🎓 **Education**: Kocaeli University - Electronics & Communication Engineering  
-🌍 **Location**: Ankara, Turkey  
-💼 **Current Focus**: Data Science, Big Data Engineering, MLOps  
-🌱 **Learning**: Advanced ML techniques, Cloud-native architectures
+<div align="center">
+  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100" height="100"/>
+</div>
 
 ---
 
@@ -65,39 +53,29 @@ me.say_hi()
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🔧 MLOps & API Development
+### 🔧 MLOps & API
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+<h3 align="center">✨ Languages and Tools</h3>
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40"/></a>
+  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="40"/></a>
+  <a href="https://airflow.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Apache Airflow" width="40"/></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40"/></a>
+</p>
 
 <div align="center">
-  
-![Cinar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cinarolog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cinarolog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cinarolog&theme=tokyonight&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cinarolog&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cinarolog&custom_title=Cinar's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
-
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
 </div>
 
 ---
@@ -121,46 +99,46 @@ Building robust ETL/ELT pipelines, data warehousing solutions, and real-time dat
 
 ---
 
-## 🎓 Continuous Learning
-
-```yaml
-Current Focus:
-  - Advanced Deep Learning Architectures
-  - Large Language Models (LLMs)
-  - Real-time ML Systems
-  - Cloud Cost Optimization
-  - Data Mesh Architecture
-
-Recent Achievements:
-  - ✅ Built production-ready ML pipelines
-  - ✅ Deployed models on cloud infrastructure
-  - ✅ Implemented automated data workflows
-  - ✅ Optimized big data processing systems
-```
+<h3 align="center">📊 My Stats</h3>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=cinarolog&theme=dark&background=000000" alt="GitHub Streak Stats"/>
+</p>
 
 ---
 
-## 🌟 Open Source Contributions
+## 📈 Contribution Activity
 
-I believe in giving back to the community! Here are some areas I contribute to:
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cinarolog&custom_title=Cinar's%20Contribution%20Graph&bg_color=000000&color=79c83d&line=ffff00&point=ffffff&area=true&hide_border=true)
 
-- 📚 Creating educational content on Data Science and ML
-- 🔧 Contributing to open-source data engineering tools
-- 💡 Sharing knowledge through technical articles
-- 🤝 Mentoring aspiring data scientists
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+</p>
 
 ---
 
 ## 📫 Let's Connect!
 
+<h3 align="center">Connect with Me</h3>
 <div align="center">
+  <a href="https://www.linkedin.com/in/muhammetcinar/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/>
+  </a>
+  <a href="https://cinar-muhammet.streamlit.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Streamlit-%23333?style=for-the-badge&logo=streamlit&logoColor=green"/>
+  </a>
+  <a href="mailto:mhmmtcnr81@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
+</div>
 
-I'm always interested in collaborating on exciting data science, ML, and big data projects. Whether it's discussing the latest trends in AI or working on innovative solutions, I'd love to connect!
-
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/muhammetcinar/)
-[![Portfolio](https://img.shields.io/badge/-Visit_My_Portfolio-FF5722?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=FF5722)](https://cinar-muhammet.streamlit.app)
-[![Gmail](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:mhmmtcnr81@gmail.com)
-
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
 </div>
 
 ---
@@ -169,7 +147,7 @@ I'm always interested in collaborating on exciting data science, ML, and big dat
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
@@ -179,9 +157,19 @@ I'm always interested in collaborating on exciting data science, ML, and big dat
 
 ### 🌟 "Turning data into insights, insights into action!" 🚀
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+</div>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
+  <img src="https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif" alt="Corona Runner"/>
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="150"/>
+</p>
+
+---
+
+<div align="center">
 
 <sub>⭐️ From [cinarolog](https://github.com/cinarolog) | Made with 💙 and ☕</sub>
 
