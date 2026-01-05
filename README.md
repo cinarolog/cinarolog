@@ -99,10 +99,47 @@ Building robust ETL/ELT pipelines, data warehousing solutions, and real-time dat
 
 ---
 
+## 📅 Isometric Commit Calendar
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/cinarolog?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=Europe%2FIstanbul" alt="Isometric Commit Calendar" width="600"/>
+</div>
+
+---
+
+## 🈷️ Most Used Languages
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/cinarolog?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FIstanbul" alt="Language Stats" width="600"/>
+</div>
+
+---
+
+## 💡 Coding Habits & Activity
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/cinarolog?template=classic&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.trim=false&config.timezone=Europe%2FIstanbul" alt="Coding Habits" width="600"/>
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/cinarolog?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FIstanbul" alt="GitHub Achievements" width="600"/>
+</div>
+
+---
+
 <h3 align="center">📊 My Stats</h3>
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=cinarolog&theme=dark&background=000000" alt="GitHub Streak Stats"/>
 </p>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cinarolog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinarolog&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 ---
 
@@ -112,6 +149,30 @@ Building robust ETL/ELT pipelines, data warehousing solutions, and real-time dat
   
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cinarolog&custom_title=Cinar's%20Contribution%20Graph&bg_color=000000&color=79c83d&line=ffff00&point=ffffff&area=true&hide_border=true)
 
+</div>
+
+---
+
+## 🌟 Recently Starred Repositories
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/cinarolog?template=classic&stars=1&stars.limit=4&config.timezone=Europe%2FIstanbul" alt="Recently Starred" width="600"/>
+</div>
+
+---
+
+## 📌 Starred Topics
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/cinarolog?template=classic&topics=1&topics.mode=icons&topics.limit=20&config.timezone=Europe%2FIstanbul" alt="Starred Topics" width="600"/>
+</div>
+
+---
+
+## 📰 Recent Activity
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/cinarolog?template=classic&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&config.timezone=Europe%2FIstanbul" alt="Recent Activity" width="600"/>
 </div>
 
 ---
