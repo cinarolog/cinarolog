@@ -21,7 +21,7 @@ I enjoy turning complex problems into practical, scalable AI solutions and impro
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFF00&lines=Welcome+to+My+GitHub+Page!;Data+Science+Enthusiast;Big+Data+Engineer;Machine+Learning+Expert;Cloud+Architecture+Specialist"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFF00&lines=Welcome+to+My+GitHub+Page!;Data+Scientist;Artificial+Intelligence+Engineer;Machine+Learning+Engineer;"/>
 </p>
 
 ---
