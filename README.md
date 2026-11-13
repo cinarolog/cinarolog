@@ -11,8 +11,10 @@
   <h2>Hi, I'm <b>Cinar</b>! ✅</h2>
   <p>👋 Hey there!
 
-I’m an AI Engineer & Data Scientist who loves working with AI, ML, LLMs, and MLOps 🤖📊
-Currently, I build end-to-end AI solutions in the defence sector — from data engineering to production-ready models 🚀
+I’m an AI Engineer & Data Scientist who builds AI products that people use every day 🤖📊
+In the defence sector, I own projects end to end: from requirements analysis and architecture to development, deployment and long-term maintenance 🚀
+
+My focus is LLMs, AI agents, RAG, machine learning and computer vision, and lately I’m diving into Physical AI and robotics 🦾
 
 I also create technical content on YouTube 🎥, sharing what I learn about artificial intelligence, data science, data engineering, and MLOps while learning along the way.
 I enjoy turning complex problems into practical, scalable AI solutions and improving myself a little more every day 🌱.</p>
@@ -21,13 +23,13 @@ I enjoy turning complex problems into practical, scalable AI solutions and impro
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFF00&lines=Welcome+to+My+GitHub+Page!;Data+Scientist;Artificial+Intelligence+Engineer;Machine+Learning+Engineer;"/>
+  <img src="https://readme-typing-svg.demolab.com?color=%23FFFF00&lines=Welcome+to+My+GitHub+Page!;AI+Engineer;Data+Scientist;LLM+Agents+%26+RAG;Machine+Learning+Engineer;Computer+Vision+%26+Physical+AI;"/>
 </p>
 
 ---
 
 <h3 align="center">Skills</h3>
-<p align="center">Python | Machine Learning | Deep Learning | Data Engineering | MLOps | AWS-GCP | PostgreSQL | Oracle</p>
+<p align="center">Python | LLMs | AI Agents | RAG | Machine Learning | Deep Learning | NLP | Computer Vision | Data Engineering | MLOps | AWS-GCP | PostgreSQL | Oracle</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100" height="100"/>
@@ -37,6 +39,14 @@ I enjoy turning complex problems into practical, scalable AI solutions and impro
 
 ## 🛠️ Tech Stack & Tools
 
+### 🧠 LLMs & Generative AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
+
 ### 💻 Programming & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -45,6 +55,11 @@ I enjoy turning complex problems into practical, scalable AI solutions and impro
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### 👁️ Computer Vision & Robotics
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NVIDIA Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -61,6 +76,8 @@ I enjoy turning complex problems into practical, scalable AI solutions and impro
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🔧 MLOps & API
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -68,6 +85,11 @@ I enjoy turning complex problems into practical, scalable AI solutions and impro
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 📱 Apps & Interfaces
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
@@ -81,6 +103,11 @@ I enjoy turning complex problems into practical, scalable AI solutions and impro
   <a href="https://airflow.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Apache Airflow" width="40"/></a>
   <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40"/></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/></a>
 </p>
 
 <div align="center">
@@ -91,20 +118,39 @@ I enjoy turning complex problems into practical, scalable AI solutions and impro
 
 ## 💼 What I Do
 
+**🧠 LLMs & AI Agents**  
+Designing LLM-powered assistants, RAG pipelines and AI agents with tool calling, and taking them from first prototype to production with real users.
+
 **🎯 Machine Learning & Deep Learning**  
-Building end-to-end ML pipelines from data preprocessing to model deployment. Specializing in supervised and unsupervised learning, neural networks, and model optimization.
+Building end-to-end ML pipelines from data preprocessing to model deployment. Working with supervised and unsupervised learning, NLP, neural networks, and model optimization.
+
+**👁️ Computer Vision & Physical AI**  
+Object detection and image processing since my TEKNOFEST days, and now robotics simulation and imitation learning.
 
 **📊 Big Data Engineering**  
-Designing and implementing scalable data pipelines using Apache Spark, Kafka, and Airflow. Managing petabyte-scale data processing workflows.
+Building data pipelines and automated reporting workflows, with hands-on experience in Apache Spark, Kafka, and Airflow.
 
 **☁️ Cloud Architecture**  
-Creating cloud-native solutions on AWS and GCP. Expertise in serverless architectures, containerization, and infrastructure as code.
+Deploying AI services on the cloud with Docker and AWS, and serving models through scalable FastAPI backends.
 
 **🔄 MLOps & DevOps**  
 Implementing CI/CD pipelines for ML models, automated testing, monitoring, and production deployment strategies.
 
 **🗃️ Data Engineering**  
-Building robust ETL/ELT pipelines, data warehousing solutions, and real-time data streaming architectures.
+Building robust ETL pipelines, data integrations and the databases behind AI products.
+
+---
+
+## 🌟 Featured Projects
+
+| Project | What it is |
+| --- | --- |
+| 🎥 [youtube-ai-data-science](https://github.com/cinarolog/youtube-ai-data-science) | Code, notebooks and projects from my YouTube channel: ML, DL, NLP, LLMs, MLOps, data engineering |
+| 🌊 [TEKNOFEST-2021-AUV-COMPETITION](https://github.com/cinarolog/TEKNOFEST-2021-AUV-COMPETITION) | Computer vision for an autonomous underwater vehicle, **TEKNOFEST 2021 finalist** 🏆 |
+| ✈️ [TEKNOFEST-2022-UAV-COMPETITION-](https://github.com/cinarolog/TEKNOFEST-2022-UAV-COMPETITION-) | YOLO-based object detection for a UAV team |
+| 🎓 [Graduation Project (YOLO + Streamlit)](https://github.com/cinarolog/Electronics-and-Telecommunication-Engineering-Graduation-Project-WEB-Part-Streamlit-YOLO) | Object detection web app from my engineering graduation project |
+| ⚙️ [ml-cicd-demo](https://github.com/cinarolog/ml-cicd-demo) | CI/CD pipeline for training, testing and deploying an ML model |
+| 💬 [chatbot-rasa](https://github.com/cinarolog/chatbot-rasa) | Conversational assistant built with Rasa NLU |
 
 ---
 
@@ -120,7 +166,7 @@ Building robust ETL/ELT pipelines, data warehousing solutions, and real-time dat
 <h3 align="center">🔥 GitHub Streak Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cinarolog&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=cinarolog&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" alt="GitHub Streak Stats"/>
 </p>
 
 ---
@@ -184,6 +230,12 @@ Building robust ETL/ELT pipelines, data warehousing solutions, and real-time dat
   </a>
   <a href="mailto:mhmmtcnr81@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
+  <a href="https://www.youtube.com/@cinarai-ds" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-%23333?style=for-the-badge&logo=youtube&logoColor=red"/>
+  </a>
+  <a href="https://cinarmuhammet.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-%23333?style=for-the-badge&logo=googlechrome&logoColor=yellow"/>
   </a>
 </div>
 
